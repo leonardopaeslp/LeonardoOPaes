@@ -1,6 +1,6 @@
 <p align="left"> 
   Estudante de <strong>Sistemas para Internet</strong> pela FATEC<br>
-  <strong>Ênfase:</strong> Desenvolvimento Web
+  <strong>Ênfase:</strong> Desenvolvimento Web Full Stack
 </p>
 
 <div align="left" style="display: inline_block">
@@ -12,7 +12,6 @@
 
  <div>
   <a href="https://github.com/LeonardoOPaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoOPaes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOPaes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br>
 
